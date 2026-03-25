@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "name": "sk",
+      "email": "shrikantmishra4898@gmail.com",
+      "department": "mmmm",
+      "course": "jfs",
+      "id": "H0pVB3dHDDE"
+    },
+    {
+      "name": "sameer",
+      "email": "shrikantmishra4898@gmail.com",
+      "department": "cseeee",
+      "course": "pfs",
+      "id": "lBrU8Jg5yIM"
+    },
+    {
+      "name": "shivam",
+      "email": "shrikantmishra4898@gmail.com",
+      "department": "cseee",
+      "course": "nan",
+      "id": "T1e-jg4KLlU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
